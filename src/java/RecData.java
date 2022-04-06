@@ -186,7 +186,7 @@ public class RecData extends HttpServlet {
                 tip_tamal = "Mini Tamal";
                 out.println("<center><h1>!"+ request.getParameter("nombre")+" eres un tamal de " + tip_tamal +"¡</h1></center>");
                 out.println("<figure class='hover-img'><div>");
-                out.println("<img src='minitamal.jpg' alt='Mini tamal'>");
+                out.println("<img src='Minitamal.jpg' alt='Mini tamal'>");
                 out.println("</div><figcaption>");
                 out.println("<p>- Eres unico y diferente\n <br>"
                         + "- Pides bebida 'sin popote'\n <br>"
